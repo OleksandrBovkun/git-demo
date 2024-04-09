@@ -4,9 +4,15 @@ Did I not bring you some glee
 Mister, oh, look at me
 Now I'll burn all the memories of you
 
+<<<<<<< HEAD
 
 la la la
 la la land
 go go go
 
 ____________________
+=======
+All those lonely miles that you ride
+Now you'll walk with no one by your side
+Did you ever even care
+>>>>>>> b61a2deba40ecd8ba9cfaa01fce795fdec73cf3d
